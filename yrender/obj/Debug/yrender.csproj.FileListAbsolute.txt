@@ -1,0 +1,16 @@
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.ymateditor.resources
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\yrender\yrender\bin\Debug\yrender.dll
+D:\Visual Studio 2008\Projects\yrender\yrender\bin\Debug\yrender.pdb
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.dll
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.pdb
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.ymaterials.resources
+C:\Documents and Settings\tuft\Dokumenty\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tuft\Dokumenty\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.ymateditor.resources
+C:\Documents and Settings\tuft\Dokumenty\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.csproj.GenerateResource.Cache
+C:\Documents and Settings\tuft\Dokumenty\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.dll
+C:\Documents and Settings\tuft\Dokumenty\Visual Studio 2008\Projects\yrender\yrender\bin\Debug\yrender.dll
+C:\Documents and Settings\tuft\Dokumenty\Visual Studio 2008\Projects\yrender\yrender\bin\Debug\yrender.pdb
+C:\Documents and Settings\tuft\Dokumenty\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.pdb
+C:\Documents and Settings\tuft\Dokumenty\Visual Studio 2008\Projects\yrender\yrender\obj\Debug\yrender.RenderSettings.resources

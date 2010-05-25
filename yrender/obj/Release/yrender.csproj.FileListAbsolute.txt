@@ -1,0 +1,7 @@
+D:\Visual Studio 2008\Projects\yrender\yrender\bin\Debug\yrender.dll
+D:\Visual Studio 2008\Projects\yrender\yrender\bin\Debug\yrender.pdb
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Release\yrender.ymateditor.resources
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Release\yrender.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Release\yrender.dll
+D:\Visual Studio 2008\Projects\yrender\yrender\obj\Release\yrender.pdb
